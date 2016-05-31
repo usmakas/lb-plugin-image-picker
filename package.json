@@ -1,0 +1,33 @@
+{
+  "name": "lb-plugin-image-picker",
+  "version": "1.0.0",
+  "description": "This plugin allows selection of multiple images from the camera roll / gallery in a phonegap app",
+  "cordova": {
+    "id": "lb-plugin-image-picker",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usmakas/lb-plugin-image-picker.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Wymsee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/usmakas/lb-plugin-image-picker/issues"
+  },
+  "homepage": "https://github.com/usmakas/lb-plugin-image-picker#readme"
+}
